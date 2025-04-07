@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Patil
-- 👀 I’m interested in Web , Data Science , Backend
+- 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 reach me -- akashpatil1321999@gmail.com
